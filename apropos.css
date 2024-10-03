@@ -1,0 +1,35 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h2{
+       font-size: 45px;
+       text-decoration: underline solid #a39129;
+
+}
+  .container {
+    max-width: 650px;
+    margin: 50px auto;
+  }
+  
+  h1 {
+    font-size: 28px;
+    text-shadow: 2px 4px 3px rgb(194, 182, 130);
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%; 
+    height: 0;
+}

@@ -1,0 +1,24 @@
+Dans acceuil :
+Ajouter une page avec animations si possible, 
+(acceuil stylé pour apres la page de garde) ✅
+
+
+Dans portfolio :   
+Parcours scolaire ✅
+Cv ✅
+
+
+Dans a propos :
+Je parle de moi et de ce que j'aimes (images + Videos) ✅
+
+
+Dans contact :
+(Trouver une idée page style) ✅
+Logo avec les réseaux + liés ❌
+
+
+Notes :
+JE NE SAIS PAS SI VOUS ALLEZ LIRE CE MESSAGE MAIS LE MENU QUI EST A DROITE EST UN MENU 
+QUE J'UTILISE POUR CHAQUE SITE WEB. CAR DURANT LES VACANCES D'ETE JE ME SUIS ENTRAINE EN REGARDANT DES
+VIDEOS ET TUTOS POUR APPRENDRE LE HTML ET CSS.
+

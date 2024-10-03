@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0; 
+  /* background-image: url('/images/cvfond.jpg'); */
+  
+}
+
+#dButton {
+  display: block;
+  margin: 10px 680px 80px; 
+  padding: 8px 16px;
+  font-size: 16px;
+  text-decoration: none;
+  background-color: #2c79ac;
+  color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+h1 {
+  margin-bottom: 20px; 
+  color: #ffffff;
+  text-shadow: 2px 2px 2px #000000, -2px -2px 2px #000;
+}
+
+img {
+  max-width: 33%;
+  height: auto;
+  margin: 20px auto; 
+  cursor: pointer;
+}
+
+.social-icon img {
+  width: 50px;
+  height: 50px; 
+  padding: 0;
+  margin: 10px;
+  box-shadow: none;
+}
