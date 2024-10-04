@@ -26,3 +26,6 @@ VIDEOS ET TUTOS POUR APPRENDRE LE HTML ET CSS.
 git commit -a 
 git push
 git pull (si modif fait sur git)
+
+
+je fais ca
