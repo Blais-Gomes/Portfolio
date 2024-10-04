@@ -28,4 +28,3 @@ git push
 git pull (si modif fait sur git)
 
 
-je fais ca
