@@ -1,7 +1,7 @@
-#🌟 Mon Projet Génial 🌟
+# 🌟 Mon Projet Génial 🌟
 Bienvenue dans Mon Projet Génial ! Ce projet a été créé pour [Portfolio]. 🚀
 
-##🛠️ Fonctionnalités
+## 🛠️ Fonctionnalités
 🔍 Recherche rapide : Trouvez ce que vous cherchez en un clin d'œil !
 💾 Sauvegarde automatique : Ne perdez jamais vos données.
 🌐 Multilingue : Disponible en plusieurs langues.
@@ -24,7 +24,7 @@ bash
 Copier le code
 npm install
 
-##🏗️ Utilisation
+## 🏗️ Utilisation
 Pour démarrer le projet, exécutez :
 
 bash
@@ -32,6 +32,6 @@ Copier le code
 npm start
 Et voilà ! 🎉
 
-##📄 License
+## 📄 License
 Ce projet est sous la licence MIT.
 
