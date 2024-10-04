@@ -8,7 +8,7 @@ Bienvenue dans Mon Projet Génial ! Ce projet a été créé pour [Portfolio]. �
 
 🌐 Multilingue : Disponible en plusieurs langues.
 
-📦 Installation
+## 📦 Installation
 
 Pour installer ce projet, suivez ces étapes :
 
