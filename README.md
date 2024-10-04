@@ -10,11 +10,11 @@ Bienvenue dans Mon Projet ! Ce projet représent [Portfolio]. 🚀
 
 ## 📦 Installation
 
-** Pour installer ce projet **
+**Pour installer ce projet**
 
 Suivez ces étapes :
 
-** Clonez le dépôt dans bash : **
+**Clonez le dépôt dans bash :**
 
 Copier le code
 
@@ -23,15 +23,15 @@ git clone [https://github.com/mon-utilisateur/mon-projet-genial.git](https://bla
 Accédez au répertoire :
 
 
-** Copier le code : **
+**Copier le code :**
 
 cd Portfolio
 
-** Installez les dépendances : **
+**Installez les dépendances :**
 
 
 
-** Copier le code : **
+**Copier le code :**
 
 npm install
 
@@ -39,7 +39,7 @@ npm install
 Pour démarrer le projet, exécutez :
 
 
-** Copier le code dans bash : **
+**Copier le code dans bash :**
 
 npm start
 
