@@ -23,8 +23,10 @@ QUE J'UTILISE POUR CHAQUE SITE WEB. CAR DURANT LES VACANCES D'ETE JE ME SUIS ENT
 VIDEOS ET TUTOS POUR APPRENDRE LE HTML ET CSS.
 
 
+git pull (si modif fait sur git)
+git add . (si j'ajoutes un fichier modifié ou sinon juste le nom)
 git commit -a 
 git push
-git pull (si modif fait sur git)
+
 
 
