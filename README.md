@@ -2,21 +2,19 @@
 Bienvenue dans Mon Projet ! Ce projet représent [Portfolio]. 🚀
 
 ## 🛠️ Fonctionnalités
-📃 Mon curriculum vitae : Trouvez ce que vous cherchez en un clin d'œil !
+📃 Mon curriculum vitae : Vous retrouvez mon CV sur ce site + mes réseaux !
 
-💾 Sauvegarde automatique : Ne perdez jamais vos données.
+❗️ Informations : Des informations sur moi et de ce que j'aime . 
 
 ✉️ Envoie de mail : Possibilité d'envoyer des mails depuis le site.
 
 ## 📦 Installation
 
-Pour installer ce projet, 
+** Pour installer ce projet **
 
-suivez ces étapes :
+Suivez ces étapes :
 
-Clonez le dépôt :
-
-bash :
+** Clonez le dépôt dans bash : **
 
 Copier le code
 
@@ -24,23 +22,24 @@ git clone [https://github.com/mon-utilisateur/mon-projet-genial.git](https://bla
 
 Accédez au répertoire :
 
-bash :
 
-Copier le code
+** Copier le code : **
+
 cd Portfolio
 
-Installez les dépendances :
+** Installez les dépendances : **
 
-bash :
 
-Copier le code
+
+** Copier le code : **
+
 npm install
 
 ## 🏗️ Utilisation
 Pour démarrer le projet, exécutez :
 
-bash
-Copier le code :
+
+** Copier le code dans bash : **
 
 npm start
 
