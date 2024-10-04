@@ -1,5 +1,5 @@
-# 🌟 Mon Projet Génial 🌟
-Bienvenue dans Mon Projet ! Ce projet représent [Portfolio]. 🚀
+# 🌟 Mon Projet Portfolio 🌟
+Bienvenue dans Mon Projet ! 🚀
 
 ## 🛠️ Fonctionnalités
 📃 Mon curriculum vitae : Vous retrouvez mon CV sur ce site + mes réseaux !
