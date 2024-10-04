@@ -8,43 +8,6 @@ Bienvenue dans Mon Projet ! 🚀
 
 ✉️ Envoie de mail : Possibilité d'envoyer des mails depuis le site.
 
-## 📦 Installation
-
-**Pour installer ce projet**
-
-Suivez ces étapes :
-
-**Clonez le dépôt dans bash :**
-
-Copier le code
-
-git clone [https://github.com/mon-utilisateur/mon-projet-genial.git](https://blais-gomes.github.io/Portfolio/index.html)
-
-Accédez au répertoire :
-
-
-**Copier le code :**
-
-cd Portfolio
-
-**Installez les dépendances :**
-
-
-
-**Copier le code :**
-
-npm install
-
-## 🏗️ Utilisation
-Pour démarrer le projet, exécutez :
-
-
-**Copier le code dans bash :**
-
-npm start
-
-Et voilà ! 🎉
-
 ## 📄 License
 Ce projet est sous la licence MIT.
 
