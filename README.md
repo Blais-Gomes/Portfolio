@@ -1,5 +1,5 @@
 # 🌟 Mon Projet Génial 🌟
-Bienvenue dans Mon Projet Génial ! Ce projet a été créé pour [Portfolio]. 🚀
+Bienvenue dans Mon Projet ! Ce projet représent [Portfolio]. 🚀
 
 ## 🛠️ Fonctionnalités
 📃 Mon curriculum vitae : Trouvez ce que vous cherchez en un clin d'œil !
@@ -10,12 +10,16 @@ Bienvenue dans Mon Projet Génial ! Ce projet a été créé pour [Portfolio]. �
 
 ## 📦 Installation
 
-Pour installer ce projet, suivez ces étapes :
+Pour installer ce projet, 
+
+suivez ces étapes :
 
 Clonez le dépôt :
 
-bash
+bash :
+
 Copier le code
+
 git clone [https://github.com/mon-utilisateur/mon-projet-genial.git](https://blais-gomes.github.io/Portfolio/index.html)
 
 Accédez au répertoire :
