@@ -2,9 +2,9 @@
 Bienvenue dans Mon Projet ! 🚀
 
 ## 🛠️ Fonctionnalités
-📃 Mon curriculum vitae : Vous retrouvez mon CV sur ce site + mes réseaux !
+📃 Curriculum vitae : Vous retrouvez sur ce site mon CV en pdf téléchargeable + mes réseaux.
 
-❗️ Informations : Des informations sur moi et de ce que j'aime . 
+❗️ Informations : Des informations sur moi et de ce que j'aime. 
 
 ✉️ Envoie de mail : Possibilité d'envoyer des mails depuis le site.
 
