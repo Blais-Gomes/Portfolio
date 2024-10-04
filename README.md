@@ -3,9 +3,13 @@ Bienvenue dans Mon Projet Génial ! Ce projet a été créé pour [Portfolio]. �
 
 ## 🛠️ Fonctionnalités
 🔍 Recherche rapide : Trouvez ce que vous cherchez en un clin d'œil !
+
 💾 Sauvegarde automatique : Ne perdez jamais vos données.
+
 🌐 Multilingue : Disponible en plusieurs langues.
+
 📦 Installation
+
 Pour installer ce projet, suivez ces étapes :
 
 Clonez le dépôt :
@@ -16,12 +20,15 @@ git clone [https://github.com/mon-utilisateur/mon-projet-genial.git](https://bla
 
 Accédez au répertoire :
 
-bash
+bash :
+
 Copier le code
 cd Portfolio
+
 Installez les dépendances :
 
-bash
+bash :
+
 Copier le code
 npm install
 
@@ -29,8 +36,10 @@ npm install
 Pour démarrer le projet, exécutez :
 
 bash
-Copier le code
+Copier le code :
+
 npm start
+
 Et voilà ! 🎉
 
 ## 📄 License
