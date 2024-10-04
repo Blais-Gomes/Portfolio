@@ -2,11 +2,11 @@
 Bienvenue dans Mon Projet Génial ! Ce projet a été créé pour [Portfolio]. 🚀
 
 ## 🛠️ Fonctionnalités
-🔍 Recherche rapide : Trouvez ce que vous cherchez en un clin d'œil !
+📃 Mon curriculum vitae : Trouvez ce que vous cherchez en un clin d'œil !
 
 💾 Sauvegarde automatique : Ne perdez jamais vos données.
 
-🌐 Multilingue : Disponible en plusieurs langues.
+✉️ Envoie de mail : Possibilité d'envoyer des mails depuis le site.
 
 ## 📦 Installation
 
