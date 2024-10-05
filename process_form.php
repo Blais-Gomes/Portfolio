@@ -17,7 +17,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                   "Email: $email\n".
                   "Sujet: $subject";
 
-    // TITRE???
+    // TITRE
     $headers = "From: $email\r\n";
     $headers .= "Reply-To: $email\r\n";
 
